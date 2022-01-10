@@ -1,0 +1,26 @@
+<annotation>
+	<folder>alive</folder>
+	<filename>alive.4038eb22-061b-11ec-9025-a00fe2be7c2d.jpg</filename>
+	<path>C:\Users\hiroo\Tensorflow Object Detection\TFODCourse\Tensorflow\workspace\images\collectedimages\alive\alive.4038eb22-061b-11ec-9025-a00fe2be7c2d.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1828</width>
+		<height>1828</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>alive</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1252</xmin>
+			<ymin>410</ymin>
+			<xmax>1523</xmax>
+			<ymax>633</ymax>
+		</bndbox>
+	</object>
+</annotation>

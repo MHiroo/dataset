@@ -1,0 +1,26 @@
+<annotation>
+	<folder>dead</folder>
+	<filename>dead.47743f8e-061b-11ec-a954-a00fe2be7c2d.jpg</filename>
+	<path>C:\Users\hiroo\Tensorflow Object Detection\TFODCourse\Tensorflow\workspace\images\collectedimages\dead\dead.47743f8e-061b-11ec-a954-a00fe2be7c2d.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>612</width>
+		<height>408</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>dead</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>104</xmin>
+			<ymin>287</ymin>
+			<xmax>187</xmax>
+			<ymax>336</ymax>
+		</bndbox>
+	</object>
+</annotation>
