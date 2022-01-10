@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Dead</folder>
+	<filename>deads240.jpg</filename>
+	<path>C:\Users\Keiichi\Desktop\Dead\deads240.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>150</width>
+		<height>150</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>dead</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>42</xmin>
+			<ymin>17</ymin>
+			<xmax>142</xmax>
+			<ymax>145</ymax>
+		</bndbox>
+	</object>
+</annotation>
